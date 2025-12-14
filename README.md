@@ -85,9 +85,17 @@ node index.js
 ```
 
 ---
+## Ramas del repositorio
 
+Este repositorio contiene más de una rama:
 
-## ✨ Lenguaje
+main: contiene la solución principal correspondiente al ejercicio descrito en este README (cálculo del grado de vértices en grafos dirigidos).
+
+Otra rama adicional: incluye un segundo caso de estudio, usado como ejemplo alternativo para practicar o analizar un escenario distinto.
+
+Cada rama es independiente y sirve para estudiar el mismo concepto aplicado a diferentes ejemplos.
+---
+##  Lenguaje
 
 * JavaScript (Node.js)
 
