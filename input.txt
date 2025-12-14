@@ -1,0 +1,3 @@
+2
+A:BCD;B:;C:D;D:BC
+A:B;B:C;C:AB
